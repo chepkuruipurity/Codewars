@@ -1,2 +1,2 @@
 # Codewars
-Codewars challenge problems in python
+Codewars challenge problems in python and javascript
